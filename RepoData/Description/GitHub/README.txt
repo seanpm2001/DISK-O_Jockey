@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📀️ DISK-O Jockey is an advanced CD/DVD player, and modifier, designed to integrate with VLC Media Player, and emulate the experience of every DVD player known to exist.
